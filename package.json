@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "node main.js"
+    "compile": "node main.js",
+    "start" : "node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/muskanbararia/musings#readme",
   "dependencies": {
-    "marked": "^1.2.0"
+    "http": "0.0.1-security",
+    "marked": "^1.2.0",
+    "serve-handler": "^6.1.3"
   }
 }
