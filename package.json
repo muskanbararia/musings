@@ -1,0 +1,27 @@
+{
+  "name": "musings",
+  "version": "1.0.0",
+  "description": "A minimalist's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskanbararia/musings.git"
+  },
+  "keywords": [
+    "Blog",
+    "Markdown"
+  ],
+  "author": "muskanbararia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muskanbararia/musings/issues"
+  },
+  "homepage": "https://github.com/muskanbararia/musings#readme",
+  "dependencies": {
+    "marked": "^1.2.0"
+  }
+}
