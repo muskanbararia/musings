@@ -1,5 +1,9 @@
 # musings
 
+## About
+
+This is my blog where I type down md files and they are formatted and deployed.
+
 ## ToDo
 1. Write a JS file to serve Main page
 2. Main Page shall contain the below categories of content

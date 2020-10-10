@@ -19,7 +19,7 @@ fs.mkdir('js', function () {
                         console.log(`stderr: ${stderr}`);
                         return;
                     }
-                    exec("generate-md --layout witex --input ./input --output ./output ", (error, stdout, stderr) => {
+                    exec("generate-md --layout github --input ./input --output ./output ", (error, stdout, stderr) => {
                         if (error) {
                             console.log(`error: ${error.message}`);
                             return;
