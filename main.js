@@ -7,7 +7,6 @@ const {
 
 // Read main 
 
-// Create input/index.md, run command, read from output/index.html, remove input/ & output
 fs.mkdir('js', function () {
             fs.mkdir('input', function () {
                 exec("cp -r Markdowns/* input/", (error, stdout, stderr) => {
@@ -55,8 +54,3 @@ fs.mkdir('js', function () {
             })
         })
         
-
-        // // main2
-        // var readMe2 = fs.readFileSync('./Markdowns/main2.md', 'utf-8');
-        // var markdownReadMe2 = marked(readMe2);
-        // fs.writeFileSync('./js/main2.html', markdownReadMe2);
