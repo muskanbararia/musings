@@ -24,3 +24,7 @@ I started my career as a professional with Infosys working as System Engineer wh
 I interned with Infosys where I was mainly working on an internal project that included real estate listings. Details [here](infosys_intern/index.html).
 
 Prior to that, I interned with Global Tech Promoters where I learnt the basics of network security, ethical hacking etc. More [here](gtp/index.html).
+
+#### Education
+
+I have completed my Bachelor's in Technology in IT stream from IIIT Bhubaneswar. Read [more](iiit/index.html).
