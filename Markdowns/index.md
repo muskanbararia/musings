@@ -28,3 +28,13 @@ Prior to that, I interned with Global Tech Promoters where I learnt the basics o
 #### Education
 
 I have completed my Bachelor's in Technology in IT stream from IIIT Bhubaneswar. Read [more](iiit/index.html).
+
+
+#### To Dos
+
+- [ ] Learn ReasonML and convert tracker to reason. (This shall give me fair idea on syntax of reason as well as purescript)
+- [ ] Croma finish lazy loading of EMI screen.
+- [ ] BB finsh off the UI for PWA, remove powered by Juspay for web. check the merge progress.
+- [ ] Finish C course.
+- [ ] gfg 3 questions, hackerearth 10, hackerrank 10, codechef 10
+- [ ] Read about es6
